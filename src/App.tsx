@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import FAQAccordion from './components/FAQAccordion';
 import { 
   Sparkles, 
